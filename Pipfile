@@ -5,7 +5,11 @@ name = "pypi"
 
 [packages]
 django = "*"
+djangorestframework = "*"
+flake8 = "*"
+black = "*"
 mysqlclient = "*"
+isort = "*"
 
 [dev-packages]
 
