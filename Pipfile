@@ -10,6 +10,7 @@ flake8 = "*"
 black = "*"
 mysqlclient = "*"
 isort = "*"
+djoser = "*"
 
 [dev-packages]
 
